@@ -18,6 +18,8 @@
   </a>
 </div>
 
+This is a fork of [this](https://github.com/kentcdodds/react-fundamentals) and contains the progress of @LingVuDev
+
 <hr />
 
 <!-- prettier-ignore-start -->
